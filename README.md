@@ -12,5 +12,5 @@ organizations stay competitive and agile in today’s fast-paced technological e
   can enhance collaboration, reduce errors, and accelerate the software delivery process.</p>
 
 <p align='center'>
-  <img src="devops.gif"  width="150px"  height="75px">
+  <img src="devops.gif"  width="600px"  height="300px">
 </p>
